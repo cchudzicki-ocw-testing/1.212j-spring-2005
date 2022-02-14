@@ -6,7 +6,12 @@ description: 'This resource includes the following topics:
   Contents, And Transportation Operations.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/1c9565f4cba6ed99e9f06019a81549b9_lec21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec21.pdf
+type: OCWFile
 uid: 1c9565f4-cba6-ed99-e9f0-6019a81549b9
 ---

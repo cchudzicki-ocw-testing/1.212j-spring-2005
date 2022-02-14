@@ -8,7 +8,12 @@ description: 'This resource includes the following topics:
   in Mexico city.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/e397c8776a0abc09bf32763a5def4921_dodder.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: dodder.pdf
+type: OCWFile
 uid: e397c877-6a0a-bc09-bf32-763a5def4921
 ---

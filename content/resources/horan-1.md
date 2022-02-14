@@ -7,7 +7,12 @@ description: 'This resource includes the following topics:
   and ITS Directions: Toward User Driven, High Performance Systems.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/ee3a9acd8cdef25ee1fa0e88eaa7d303_horan.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: horan.pdf
+type: OCWFile
 uid: ee3a9acd-8cde-f25e-e1fa-0e88eaa7d303
 ---

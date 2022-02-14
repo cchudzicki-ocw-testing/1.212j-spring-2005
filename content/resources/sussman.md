@@ -6,7 +6,12 @@ description: This paper examines the opportunities and challenges for policies i
   study.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/82cd4ffe8046137e84f6dcf2f6576ae2_sussman.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: sussman.pdf
+type: OCWFile
 uid: 82cd4ffe-8046-137e-84f6-dcf2f6576ae2
 ---
