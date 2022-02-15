@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec21.pdf
-type: OCWFile
 uid: 1c9565f4-cba6-ed99-e9f0-6019a81549b9
 ---

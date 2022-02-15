@@ -14,6 +14,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: roadmap.pdf
-type: OCWFile
 uid: 12fc91ba-41c8-1bf6-c36e-7a806e1ebb68
 ---

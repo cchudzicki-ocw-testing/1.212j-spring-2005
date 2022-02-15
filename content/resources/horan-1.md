@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: horan.pdf
-type: OCWFile
 uid: ee3a9acd-8cde-f25e-e1fa-0e88eaa7d303
 ---

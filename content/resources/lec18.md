@@ -17,6 +17,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec18.pdf
-type: OCWFile
 uid: 2b302f61-7c64-011b-9772-78ec5de39653
 ---

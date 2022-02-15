@@ -13,6 +13,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: gifford.pdf
-type: OCWFile
 uid: 62ce671d-5646-58a1-14db-dadabe74b974
 ---

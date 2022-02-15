@@ -14,6 +14,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: dodder.pdf
-type: OCWFile
 uid: e397c877-6a0a-bc09-bf32-763a5def4921
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: seattle_presenta.pdf
-type: OCWFile
 uid: 6705150f-a07e-938d-0834-487e52cf65f5
 ---

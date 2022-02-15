@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: horan.pdf
-type: OCWFile
 uid: 7c5b913b-b7b5-4e50-6417-a7a60e9631ee
 ---

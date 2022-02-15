@@ -12,6 +12,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: sussman.pdf
-type: OCWFile
 uid: 82cd4ffe-8046-137e-84f6-dcf2f6576ae2
 ---

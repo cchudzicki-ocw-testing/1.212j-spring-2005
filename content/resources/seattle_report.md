@@ -12,6 +12,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: seattle_report.pdf
-type: OCWFile
 uid: 7b806aef-3b40-0066-369f-91784bcdd045
 ---

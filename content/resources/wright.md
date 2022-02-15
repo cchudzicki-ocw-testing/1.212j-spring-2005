@@ -15,6 +15,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: wright.pdf
-type: OCWFile
 uid: 1dab70b2-376a-e80a-ce10-6ca142d95247
 ---

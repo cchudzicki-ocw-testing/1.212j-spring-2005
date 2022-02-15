@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: dodder.pdf
-type: OCWFile
 uid: 615f93bf-1766-01ba-aed6-8099f5865d2e
 ---

@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: boston_presentat.pdf
-type: OCWFile
 uid: 56252f0f-890d-3840-ddc3-60afa27176a5
 ---

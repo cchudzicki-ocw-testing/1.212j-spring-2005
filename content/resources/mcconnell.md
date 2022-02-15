@@ -17,6 +17,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: mcconnell.pdf
-type: OCWFile
 uid: 4569f706-b33e-7f88-ab28-819ad61375c5
 ---

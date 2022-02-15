@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: bottom.pdf
-type: OCWFile
 uid: 563288f3-deba-0e78-0035-8d4e69466781
 ---
