@@ -225,7 +225,7 @@ IV.9, IV.13
 
 _Additional Readings_
 
-Lieu, Henry. A Roadmap for the Research, Development and Deployment of Traffic Estimation and Prediction Systems for Real-Time and Off-Line Applications (TREPS, TREPS-P). Travel Management Team, Office of Operations RD&T, Federal Highway Administration, 2003. ([PDF]({{< baseurl >}}/resources/roadmap))
+Lieu, Henry. A Roadmap for the Research, Development and Deployment of Traffic Estimation and Prediction Systems for Real-Time and Off-Line Applications (TREPS, TREPS-P). Travel Management Team, Office of Operations RD&T, Federal Highway Administration, 2003. ({{< resource_link 12fc91ba-41c8-1bf6-c36e-7a806e1ebb68 "PDF" >}})
 
 Ben-Akiva, Moshe, Michel Bierlaire, Jon Bottom, Haris Koutsopoulos, and Rabi Mishalani. Development of a Route Guidance Generation System for Real-Time Application. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.4203))
 
@@ -386,7 +386,7 @@ Miller, Charles. "A Discussion of Intelligent Transportation Systems Environment
 
 Jordan, Daniel, and Thomas Horan. "Intelligent Transportation Systems and Sustainable Communities: Findings of a National Study." _Transportation Research Record_, Paper No. 971098.
 
-Dodder, Rebecca S. "A Systems Framework for Assessing Air Quality Impacts of ITS: Application to Mexico City." 2004. ([PDF]({{< baseurl >}}/resources/dodder))
+Dodder, Rebecca S. "A Systems Framework for Assessing Air Quality Impacts of ITS: Application to Mexico City." 2004. ({{< resource_link e397c877-6a0a-bc09-bf32-763a5def4921 "PDF" >}})
 
 Additional Reading for those especially interested:
 
@@ -483,7 +483,7 @@ IBI Group. "Puget Sound Regional Council Intelligent Transportation Systems Regi
 
 _Mexico_
 
-Gilat, Michael, and Joseph Sussman. "Coordinated Transportation and Land Use Planning in the Developing World - The Case of Mexico City." ([PDF]({{< baseurl >}}/resources/sussman))
+Gilat, Michael, and Joseph Sussman. "Coordinated Transportation and Land Use Planning in the Developing World - The Case of Mexico City." ({{< resource_link 82cd4ffe-8046-137e-84f6-dcf2f6576ae2 "PDF" >}})
 
 Dodder, R. S. "ITS and Air Quality in the Mexico City Metropolitan Area." Unpublished Working Paper for the Integrated Program on Urban, Regional and Global Air Pollution, Cambridge, MA. 2004.
 
