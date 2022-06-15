@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains a list of required and optional readings as
+  per the course schedule.
 draft: false
 learning_resource_types:
 - Readings
