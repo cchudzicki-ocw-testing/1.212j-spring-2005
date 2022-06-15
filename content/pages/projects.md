@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A half-semester student project was required of all students, centered
+  around regional operations planning and architecture in Boston, Seattle, and Mexico
+  City. A description of that project and the work of the students follows. All work
+  is courtesy of the student named and used with permission.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
